@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.step {
+  background-color: rgb(0, 235, 255);
+  display: flex;
+}
+.step p {
+  padding: 10px;
+}
+.count {
+  background-color: rgb(0, 180, 255);
+  display: flex;
+}
+.count p {
+  padding: 10px;
+}
+.message {
+  background-color: rgb(0, 130, 255);
+  height: 50px;
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+  te
+}
+
